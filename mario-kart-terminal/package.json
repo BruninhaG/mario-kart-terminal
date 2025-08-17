@@ -1,0 +1,12 @@
+{
+  "name": "mario-kart-terminal",
+  "version": "1.0.0",
+  "description": "Simulador de corridas inspirado em Mario Kart, feito em Node.js e executado no terminal.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
